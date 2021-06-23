@@ -17,4 +17,4 @@ arm_base.php:Take the Data from the database and display it in php page.
 
 Arm_Control.sql:Contains the  database     
    
-Screen Recording:The run of the task
+Screen Recording .mov:The run of the task
